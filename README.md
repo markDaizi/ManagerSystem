@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # vue-sty2
 
 ## Project setup
@@ -27,3 +28,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# ManagerSystem
+>>>>>>> ac10435e524c723dc8682022625c5e1e1455fb14
